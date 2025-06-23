@@ -1219,10 +1219,10 @@ export const dataList = [
         case: "childhood",
         title: "توزيع طلاب الصف الثالث في مدارس الطفولة المبكرة على مدارس المرحلة االبتدائية ",
         schoolName: "ابتدائية فاطمة الكنانية بالجبيل",
-        totalStudents: 8,
+        totalStudents: 46,
         destinations: [
-            { school: "ابتدائية عروة بن الزبير", count: 8 },
-            { school: "-", count: 0 },
+            { school: "ابتدائية عمرو بن الزبير", count: 8 },
+            { school: "ابتدائيه عبدالله بن مسعود", count: 38 },
             { school: "-", count: 0 },
         ],
     },
@@ -1232,10 +1232,10 @@ export const dataList = [
         type: "boy",
         case: "childhood",
         title: "توزيع طلاب الصف الثالث في مدارس الطفولة المبكرة على مدارس المرحلة االبتدائية ",
-        schoolName: "الابتدائية الثامنة عشر بالجبيل",
-        totalStudents: 37,
+        schoolName: "الابتدائيه الثامنة عشر بالجبيل )طفولة مبكرة( ",
+        totalStudents: 59,
         destinations: [
-            { school: "ابتدائية البيهقي", count: 37 },
+            { school: "ابتدائية هجر", count: 59 },
             { school: "-", count: 0 },
             { school: "-", count: 0 },
         ],
@@ -1567,10 +1567,10 @@ export const dataList = [
         case: "secondary",
         title: "توزيع طلاب الصف الثالث متوسط على مدارس المرحلة الثانوية",
         schoolName: "متوسطة الجبيل",
-        totalStudents: 65,
+        totalStudents: 126,
         destinations: [
+            { school: "ثانوية الفضيل بن عياض - مسارات", count: 65 },
             { school: "ثانوية الملك فهد بالجبيل - مسارات", count: 61 },
-            { school: "ثانوية الفضيل بن عياض - مسارات", count: 4 },
             { school: "-", count: 0 },
         ],
     },
@@ -10043,11 +10043,11 @@ export const dataList = [
         "case": "childhood",
         "title": "طالبات الصف الثالث في مدارس الطفولة المبكرة على مدارس المرحلة الابتدائية",
         "schoolName": "ابتدائية الأبناء الأولى بالأسطول الشرقي",
-        "totalStudents": 163,
+        "totalStudents": 162,
         "destinations": [
-            { "school": "الإبتدائية الثانية للأبناء بالجبيل", "count": 143 },
-            { "school": "الأبتدائية الثالثة عشر بالجبيل", "count": 10 },
-            { "school": "ابتدائية فاطمة الكنانية بالجبيل", "count": 10 }
+            { "school": "الإبتدائية الثانية للأبناء بالجبيل", "count": 152 },
+            { "school": "ابتدائية فاطمة الكنانية بالجبيل", "count": 10 },
+            { "school": "-", "count": 0 }
         ]
     },
     {

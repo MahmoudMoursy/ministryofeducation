@@ -6145,9 +6145,9 @@ export const dataList = [
         case: "childhood",
         title: "توزيع طلاب الصف الثالث في مدارس الطفولة المبكرة على مدارس المرحلة الابتدائية",
         schoolName: "ابتدائية أم المؤمنين رملة بالدمام",
-        totalStudents: 67,
+        totalStudents: 69,
         destinations: [
-            { school: "ابتدائية سعيد بن عامر", count: 67 },
+            { school: "ابتدائية سعيد بن عامر", count: 69 },
             { school: "-", count: 0 },
             { school: "-", count: 0 }
         ]

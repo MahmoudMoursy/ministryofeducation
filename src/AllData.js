@@ -6719,10 +6719,10 @@ export const dataList = [
         case: "primary",
         title: "توزيع طلاب الصف السادس الابتدائي على مدارس المرحلة المتوسطة",
         schoolName: "ابتدائية الأمير جلوي بالدمام",
-        totalStudents: 190,
+        totalStudents: 195,
         destinations: [
-            { school: "متوسطة مجمع السيوطي", count: 165 },
-            { school: "متوسطة عبدالرحمن الغافقي", count: 25 },
+            { school: "متوسطة مجمع السيوطي", count: 145 },
+            { school: "متوسطة عبدالرحمن الغافقي", count: 50 },
             { school: "-", count: 0 }
         ]
     },
